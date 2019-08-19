@@ -1,2 +1,0 @@
-logDebug("testing EMSE tool");
-

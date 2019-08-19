@@ -1,1 +1,0 @@
-Put all custom functions in this folder.
