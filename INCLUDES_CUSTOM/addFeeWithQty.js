@@ -1,5 +1,5 @@
 /**
- *
+ * // based off the master script addFee(), this creates the fee using the quantity and calc variable
  *
  * @param {*} fcode
  * @param {*} fsched
